@@ -10,7 +10,7 @@ I'm a Data Analyst based in San Francisco. I have a passion for SQL, Python, and
 - **Databases**: postgreSQL
 
 ## Achievements
-- Tableau Desktop Specialist.
+- Tableau Desktop Specialist
 - Google Data Analyst certification
 - IBM Data Engineering certification
 
